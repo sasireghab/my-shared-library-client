@@ -1,4 +1,4 @@
-//@Library('MyLibrary@master') _
+@Library('MyLibrary@master') _
 
 pipelineTemplate(
   ENV_NAME: "deva",
